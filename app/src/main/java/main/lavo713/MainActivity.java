@@ -248,7 +248,7 @@ public class MainActivity extends ListActivity {
             startActivity(i);
             return true;
         }
-
+//testing
         return super.onOptionsItemSelected(item);
     }
 }
